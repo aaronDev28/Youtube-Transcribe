@@ -7,7 +7,6 @@ st.set_page_config(page_title="YouTube Transcription App")
 st.title('📺 YouTube Transcription App')
 
 # YouTube URL
-# yt_url = 'https://youtu.be/n_3XDVOVraI'
 yt_url = st.text_input('Enter YouTube video URL', '')
 
 # Get YouTube video ID
@@ -37,8 +36,8 @@ def get_transcript(input_id):
 if yt_url == '':
   st.warning('👆 Please enter a YouTube video URL to get started!')
   with st.expander('See example URL'):
-    st.code('https://youtu.be/n_3XDVOVraI')
-    st.code('https://www.youtube.com/watch?v=n_3XDVOVraI')
+    st.code('https://www.youtube.com/watch?v=TX9qSaGXFyg')
+    st.code('https://www.youtube.com/watch?v=I3cjbB38Z4A')
 else: 
   ## Display YouTube thumbnail image
   yt_id = extract_yt_id(yt_url)
