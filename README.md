@@ -1,1 +1,1 @@
-# 📺 YouTube Transcription App
+# 📽️ YouTube Transcription App
