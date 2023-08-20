@@ -1,1 +1,1 @@
-# 📽️ YouTube Transcription App
+# 📽️ YouTube Transcriber and Summarizer
