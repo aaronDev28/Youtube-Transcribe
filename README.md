@@ -6,12 +6,12 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/aaronDev28/Youtube-Transcribe/blob/main/asset_img1.png" alt="project-screenshot">
+<img src="https://github.com/aaronDev28/Youtube-Transcribe/blob/main/asset_img1.png" alt="project-screenshot" width="600">
 
-<img src="https://github.com/aaronDev28/Youtube-Transcribe/blob/main/asset_img2.png" alt="project-screenshot">
+<img src="https://github.com/aaronDev28/Youtube-Transcribe/blob/main/asset_img2.png" alt="project-screenshot" width="600">
 
   
-### 💻 Built With>
+### 💻 Built With:
 
 *   Python
 *   Streamlit
